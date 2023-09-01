@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+ <h2 align="center">
+  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ben-21)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-schäfer)
+
+
+</h2>
+
 <!--
 **Ben-21/ben-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
