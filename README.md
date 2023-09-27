@@ -2,7 +2,7 @@
 Hi there 👋
 </h2>
 <p align="center">
-I am Benjamin and currently I am mainly learning Java and the Spring Boot framework, as well as React and TypeScript. 
+I am Benjamin. I am an Industrial Engineer and Java Developer. Currently I am mainly learning Java and the Spring Boot framework, as well as React and TypeScript. 
 </p>
 
 <h2 align="center">
